@@ -1,2 +1,8 @@
-.env
-node_modules
+# Directorios
+node_modules/
+dist/
+.env/
+
+# Archivos
+.DS_Store
+*.log
